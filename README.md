@@ -54,14 +54,12 @@ messages into the bitcoin.sv (Satoshi Vision) ledger.
 
 This is an opportunity for AI to safely interest with people, with
 other AI, and the flex the power of new and exciting AI-as-a-service
-offerings such as the Deepfunding.AI project:
+offerings such as AlphaZero Chess 
 
-https://proposals.deepfunding.ai
+https://beta.singularitynet.io/servicedetails/org/snet/service/zeta36-chess-alpha-zero
 
 Thanks 
 
-By the way, if you follow the moves laid out in the "chess" files, each 
-move progresses numerically until a pawn takes a knight.
 
 Cheers
 
