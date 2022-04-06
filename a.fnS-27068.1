@@ -1,0 +1,7 @@
+a.fnS () 
+{ 
+    t_="a.fnS";
+    _FS=$(echo $1 $(a.f $1 | a.nS) | sed 's/ /-/');
+    a.f $1 > $_FS;
+    - $_FS
+}
