@@ -64,6 +64,8 @@ Cardano would be used to register each move with tiny trasactions.
 
 https://forum.cardano.org/t/cardanowall-com-a-proof-of-existence-and-a-message-board-for-the-cardano-blockchain/51900
 
+https://developers.cardano.org/docs/transaction-metadata/
+
 Thanks 
 
 
